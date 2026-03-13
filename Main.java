@@ -20,8 +20,8 @@ class Person {
 public class Main {
     public static void main(String[] args) {
         // Creating two Person objects
-        Person p1 = new Person("Alice", 25);
-        Person p2 = new Person("Bob", 30);
+        Person p1 = new Person("Anushka", 20);
+        Person p2 = new Person("Mahi", 19);
 
         // Printing details
         p1.display();

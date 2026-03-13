@@ -17,7 +17,7 @@ class Person {
     }
 }
 
-public class Main {
+public class Problem2 {
     public static void main(String[] args) {
         // Creating two Person objects
         Person p1 = new Person("Anushka", 20);
